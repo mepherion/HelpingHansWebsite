@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: mepherion/HelpingHansWebSite
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -38,14 +38,6 @@ additional_links:
 - title: TikTok
   icon: fab fa-tiktok
   url: https://www.tiktok.com/@helpinghans
-
-
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
