@@ -9,7 +9,7 @@ version: 2
 name: James "HelpingHans" Whiteside
 title: Strategy Game Specialist and Gaming Consultant
 email: helpinghans at dotxtalent dot com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -115,7 +115,7 @@ about_content: | # this will include new lines to allow paragraphs
 #       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
