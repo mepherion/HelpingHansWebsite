@@ -1,5 +1,5 @@
 # Site
-repository: mepherion/HelpingHansWebSite
+repository: mepherion/HelpingHansWebsite
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -46,10 +46,10 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am James "HelpingHans" Whiteside and I began my streaming journey first back in 2011 on Xfire with the highest rated strategy game of all time; 'Company of Heroes' (CoH), from the developer Relic Entertainment. 
+  I am James "HelpingHans" Whiteside and I began my streaming journey first back in 2011 on Xfire with the highest rated strategy game of all time, 'Company of Heroes' (CoH), from the developer Relic Entertainment. 
   
   I began streaming because I discovered I had an absolute passion and natural skill for competitive strategy games having been an accomplished  chess player in my school years. Furthermore I loved teaching fellow players how to play and developed a knack for playing the German factions. Thus the name "HelpingHans" was born as I was literally lending a helping hand to all members of my community.
   
